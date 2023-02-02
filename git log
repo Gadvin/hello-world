@@ -1,0 +1,24 @@
+[33mcommit eb11a2535677381e904e3495e5e95a058c3a362d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 94ecb79 7bba68e
+Author: Gad <gadogechi@gmail.com>
+Date:   Thu Feb 2 11:17:53 2023 +0300
+
+    added image
+
+[33mcommit 94ecb7975e9ad2c1aed8a2e73ee02db7ac4dfe39[m[33m ([m[1;32memergency-fix[m[33m)[m
+Author: Gad <gadogechi@gmail.com>
+Date:   Thu Feb 2 11:09:51 2023 +0300
+
+    Added a description of the program
+
+[33mcommit 7bba68e1afed2bb189343da1fdebf0b8274c691c[m[33m ([m[1;32mprogmaTest[m[33m)[m
+Author: Gad <gadogechi@gmail.com>
+Date:   Thu Feb 2 11:03:24 2023 +0300
+
+    added a new image
+
+[33mcommit 5b2ed51a3b0d98558a0aba54cde95803b6a94595[m
+Author: Gad <gadogechi@gmail.com>
+Date:   Mon Jan 30 12:07:43 2023 +0300
+
+    first program
