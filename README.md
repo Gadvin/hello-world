@@ -5,3 +5,4 @@ This repository is built step by step in the tutorial
 It now includes steps for Github
 
 Gadvin was doing the tests
+added one new line
