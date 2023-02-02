@@ -1,3 +1,5 @@
+#Program to calculate the points of a game
+
 def calPoints(ops):
     stack = []
     for op in ops:
@@ -10,3 +12,4 @@ def calPoints(ops):
         else:
             stack.append(int(op))
     return sum(stack)
+
